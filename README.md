@@ -1,4 +1,4 @@
-# hacktober-honey-pot
+# Hacktober Honey Pot
 Don't make junk submissions on popular open source repos, you can make them here. 
 
 Open source maintainers don't want to handle your junk submissions. If you're going to submit junk, just submit it here so that maintainers can focus on great submissions. If you want to help out with great submissions PLEASE DO! Open source is an open effort for everyone, but spamming good repos with junk actually makes open source worse. 
