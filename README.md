@@ -1,9 +1,9 @@
-# Hacktober Honey Pot
-Don't make junk submissions on popular open source repos, you can make them here. 
+# Hacktobew Honyey Pot
+Don't make junk submissions on popuwaw open souwce wepos, you can make them hewe. 
 
-Open source maintainers don't want to handle your junk submissions. If you're going to submit junk, just submit it here so that maintainers can focus on great submissions. If you want to help out with great submissions PLEASE DO! Open source is an open effort for everyone, but spamming good repos with junk actually makes open source worse. 
+Open souwce maintainyews don't want to handwe youw junk submissions. If you'we going to submit junk, just submit it hewe so that maintainyews can focus on gweat submissions. If you want to hewp out with gweat submissions PWEASE DO ^w^  Open souwce is an open effowt fow evewyonye, but spamming good wepos with junk actuawwy makes open souwce wowse. 
 
-So if you're going to spam anyway, just spam this repo. 
+So if you'we going to spam anyway, just spam this wepo. 
 
-## Need an idea?
-We're making a list of animals, countries, and more in the lists directory. If you know of an item that doesn't exist go ahead and add it!
+## Nyeed an idea?
+We'we making a wist of anyimaws, countwies, and mowe in the wists diwectowy. If you knyow of an item that doesn't exist go ahead and add it ^w^ 
