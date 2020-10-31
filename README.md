@@ -5,5 +5,7 @@ Open source maintainers don't want to handle your junk submissions. If you're go
 
 So if you're going to spam anyway, just spam this repo. 
 
+Update: Hacktoberfest has updated their terms to allow opt-in for maintainers and other anti-spam measures. You can read that [here](https://hacktoberfest.digitalocean.com/hacktoberfest-update).
+
 ## Need an idea?
 We're making a list of animals, countries, and more in the lists directory. If you know of an item that doesn't exist go ahead and add it!
